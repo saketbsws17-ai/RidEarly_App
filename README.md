@@ -1,1 +1,1 @@
-# Ride-Matching-Web-Application
+# RidEarly Application
